@@ -1,2 +1,8 @@
 # cryptomogul10
 say, hello
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x3E7B8ad47aCfABE108eef1c404f73D784e8F7782'
+quorum: 1
